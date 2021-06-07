@@ -2,4 +2,9 @@
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
-Esta es la solucion al challenge [3-column preview card component challenge](https://hugoorlando-3column-card.netlify.app/)
+Esta es el challenge [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+
+### Solucion
+
+- Live Site URL: [3-column-card](https://hugoorlando-3column-card.netlify.app/)
+- Solucion URL:[3-column-card](https://github.com/hugoorlando/3-column-preview-card-component)
