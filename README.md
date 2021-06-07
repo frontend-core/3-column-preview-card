@@ -9,7 +9,7 @@ Este es el challenge de Frontendmentor [3-column preview card component challeng
 - Live Site URL: [Netlify](https://hugoorlando-3column-card.netlify.app/)
 - Solucion URL: [Github](https://github.com/hugoorlando/3-column-preview-card-component)
 
-![3-column-card](https://github.com/hugoorlando/3-column-preview-card-component/blob/main/img_1.png)
+![3-column-card](https://github.com/hugoorlando/3-column-preview-card-component/blob/main/terminado.png)
 
 ## Proceso
 
