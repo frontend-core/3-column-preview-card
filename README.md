@@ -18,3 +18,4 @@ Este es el challenge de Frontendmentor [3-column preview card component challeng
 - HTML5
 - CSS3
 - Flexbox
+- Metodología BEM
