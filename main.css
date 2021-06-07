@@ -20,12 +20,16 @@ body {
 h1 {
   font-family: 'Big Shoulders Display', sans-serif;
   color: #ffffff;
+  font-size: 40px;
+  margin-bottom: 50px;
+  line-height: 25px;
 }
 
 p {
-  color: var(--transparent-white);
-  font-family: 'Lexend Deca', sans-serif;
-  margin-bottom: 30px;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  margin-bottom: 50px;
+  line-height: 25px;
 }
 
 h1,
@@ -53,14 +57,17 @@ img {
 .container__menu--sedans {
   background-color: var(--brigth-orange);
   border-radius: 10px 0 0 10px;
+  padding-right: 20px;
 }
 .container__menu--suvs {
   background-color: var(--dark-cyan);
+  padding-right: 20px;
 }
 
 .container__menu--luxury {
   background-color: var(--very-dark-cyan);
   border-radius: 0 10px 10px 0;
+  padding-right: 30px;
 }
 
 /*  ========
