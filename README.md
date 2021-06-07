@@ -7,4 +7,6 @@ Esta es el challenge [3-column preview card component challenge on Frontend Ment
 ### Solucion
 
 - Live Site URL: [3-column-card](https://hugoorlando-3column-card.netlify.app/)
-- Solucion URL:[3-column-card](https://github.com/hugoorlando/3-column-preview-card-component)
+- Solucion URL: [3-column-card](https://github.com/hugoorlando/3-column-preview-card-component)
+
+![3-column-card](https://github.com/hugoorlando/3-column-preview-card-component/blob/main/img_1.png)
