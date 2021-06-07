@@ -23,27 +23,34 @@ body {
 h1 {
   font-family: 'Big Shoulders Display', sans-serif;
   color: #ffffff;
-  /* margin-top: 30px;
-  margin-left: 30px; */
 }
 
 p {
   color: var(--transparent-white);
   font-family: 'Lexend Deca', sans-serif;
-  /* margin-top: 30px;
-  margin-left: 30px;
-  margin-bottom: 30px; */
+  margin-bottom: 30px;
 }
-/* 
+
+h1,
+p,
 img {
-   margin-top: 40px;
-  margin-left: 30px; 
+  margin-top: 40px;
+  margin-left: 30px;
+}
+
+/* button {
+  margin-bottom: 50px;
 } */
+
+/*  ========
+    CONTAINER MENU
+    ========
+*/
 
 .container__menu {
   /* border: 5px solid rgb(121, 30, 75); */
   display: flex;
-  min-height: calc(70vh - 20px);
+  min-height: calc(75vh - 20px);
   max-width: 1000px;
   margin: 0 auto;
   margin-top: 50px;
@@ -63,6 +70,11 @@ img {
   background-color: var(--very-dark-cyan);
   border-radius: 0 10px 10px 0;
 }
+
+/*  ========
+    BUTTON 
+    ========
+*/
 
 .container__menu--button {
   background-color: var(--very-light-gray);
@@ -103,6 +115,20 @@ img {
   color: var(--very-light-gray);
 }
 
+/*  ========
+    FOOTER 
+    ========
+*/
+.attribution {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 80px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
+
 @media screen and (max-width: 500px) {
   .container__menu {
     display: flex;
@@ -122,10 +148,6 @@ img {
   }
 }
 
-/*  ========
-    CONTAINER 
-    ========
-*/
 /* .container {
   display: flex;
   align-items: center;
@@ -137,52 +159,9 @@ img {
 
 
 
-/*  ========
-    BUTTON 
-    ========
-*/
-/* 
 
-.container__menu--sedans button {
-  color: var(--brigth-orange);
-}
-.container__menu--sedans button:hover {
-  border: 2px solid var(--very-light-gray);
-  background-color: var(--brigth-orange);
-  color: var(--very-light-gray);
-}
 
-.container__menu--suvs button {
-  color: var(--dark-cyan);
-}
-.container__menu--suvs button:hover {
-  border: 2px solid var(--very-light-gray);
-  background-color: var(--dark-cyan);
-  color: var(--very-light-gray);
-}
 
-.container__menu--luxury button {
-  color: var(--very-dark-cyan);
-}
-.container__menu--luxury button:hover {
-  border: 2px solid var(--very-light-gray);
-  background-color: var(--very-dark-cyan);
-  color: var(--very-light-gray);
-} */
-
-/*  ========
-    FOOTER 
-    ========
-*/
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  margin-top: 80px;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-  text-decoration: none;
-}
 /* 
 @media screen and (min-width: 900px) {
   .container__menu {
