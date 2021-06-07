@@ -10,3 +10,11 @@ Esta es el challenge [3-column preview card component challenge on Frontend Ment
 - Solucion URL: [3-column-card](https://github.com/hugoorlando/3-column-preview-card-component)
 
 ![3-column-card](https://github.com/hugoorlando/3-column-preview-card-component/blob/main/img_1.png)
+
+## Proceso
+
+### Hecho con
+
+- HTML5
+- CSS3
+- Flexbox
