@@ -2,20 +2,14 @@
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
-Este es el challenge de Frontendmentor [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+## Bienvenidos! 👋
 
-### Solucion
+- 🚀 Stack básico: HTML + CSS
 
-- Live Site URL: [Netlify](https://hugoorlando-3column-card.netlify.app/)
-- Solucion URL: [Github](https://github.com/hugoorlando/3-column-preview-card-component)
+- 🚀 Demo: [Netlify](https://hugoorlando-3column-card.netlify.app/)
 
-![3-column-card](https://github.com/hugoorlando/3-column-preview-card-component/blob/main/terminado.png)
+- 🚀 Repo: [Github](https://github.com/hugoorlando/3-column-preview-card-component)
 
-## Proceso
+- 🚀 Solucion: Frontendmentor
 
-### Hecho con
-
-- HTML5
-- CSS3
-- Flexbox
-- Metodología BEM
+- 🚀 Frontendmentor: Perfil
