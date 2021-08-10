@@ -10,6 +10,6 @@
 
 - 🚀 Repo: [Github](https://github.com/hugoorlando/3-column-preview-card-component)
 
-- 🚀 Solucion: Frontendmentor
+- 🚀 Solucion: [Frontendmentor](https://www.frontendmentor.io/solutions/3-column-card-f-amclt6n)
 
-- 🚀 Frontendmentor: Perfil
+- 🚀 Frontendmentor: [Perfil](https://www.frontendmentor.io/profile/hugoorlando)
